@@ -4,4 +4,4 @@ https://github.com/TeamUltroid/Telethon/archive/ultroid.zip
 https://github.com/New-dev0/Telethon-Patch/archive/main.zip
 python-decouple
 python-dotenv
-pytgcalls==2.0.0
+py-tgcalls==2.0.0
